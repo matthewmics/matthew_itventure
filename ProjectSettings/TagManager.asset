@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ESDEnemies
+  - DustEnemies
+  - FireEnemies
+  - Boss
+  - OfficeEnemies
+  - Potion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3937840207
+    locked: 0
+  - name: Environment
+    uniqueID: 2486639033
+    locked: 0
+  - name: Player
+    uniqueID: 1896712317
+    locked: 0
+  - name: UI
+    uniqueID: 3123019971
+    locked: 0

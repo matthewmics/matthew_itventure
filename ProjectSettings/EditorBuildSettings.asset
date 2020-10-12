@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: f5d63004ea33d734b9c02f2196db6f84
+  - enabled: 1
+    path: Assets/Scenes/scene1.unity
+    guid: 1fd4fab06e9639449847f5dfbf1dfc06
+  - enabled: 1
+    path: Assets/Scenes/scene2.unity
+    guid: 2c17bd92d7b9ed04d9d3fbbf12730615
+  - enabled: 1
+    path: Assets/Scenes/scene3.unity
+    guid: 8da5e746e4e7c0b4286a31f8eb86f790
+  - enabled: 1
+    path: Assets/Scenes/scene4.unity
+    guid: 2dceed643b1569841aacf04dbb01fa4c
+  - enabled: 1
+    path: Assets/Scenes/scene5.unity
+    guid: a7dc9105423fe0b408cb6517eaccc29f
+  - enabled: 1
+    path: Assets/Scenes/mapSelect.unity
+    guid: 9300aa9d0fb694b49b361eb64add8a06
+  - enabled: 0
+    path: 
+    guid: 6eca71d958ee86b49ad8e89ad062bb6e
+  - enabled: 0
+    path: Assets/Remote.unity
+    guid: 9e56f01ab4e9746a9ad3ad3f4b221d9c
+  - enabled: 1
+    path: Assets/Scenes/prologueMale.unity
+    guid: 034a9d3ffb3d9564da1e77056f8bf34d
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 629ec5c8162e1e344b6e2cf66121e276
+  - enabled: 1
+    path: Assets/mics/PNG/PostLevel.unity
+    guid: 11fdd09d457cfad43980d8e6bf80e7d5
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 583f2f2b87ac0f54b87aa034b75a57b2
